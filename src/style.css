@@ -84,6 +84,26 @@ header {
     font-size: 28px;
 }
 
+.weather-forecast {
+    margin-top: 20px; 
+    color: #000;
+    
+}
+
+.weather-forecast-date {
+    font-size: 16px;
+    opacity: 0.6;
+    
+}
+
+.weather-forecast-temperatures {
+    font-size: 13px;
+} 
+
+.weather-forecast-temperature-min {
+    opacity: 0.6;
+}
+
 
 main {
     padding: 30px 0;
